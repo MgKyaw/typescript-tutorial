@@ -4,7 +4,7 @@ let aged = true;
 let realAge = 0;
 
 if (aged) {
-    realAge = '4 years';
+    realAge = 4;
 }
 
 let dogAge = realAge * 7;
