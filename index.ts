@@ -17,8 +17,8 @@
 
 // console.log(firstName.length);
 
-let guess;
+// let guess;
 
-guess = "red";
+// guess = "red";
 
-guess = 1;
+// guess = 1;
