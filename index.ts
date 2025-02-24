@@ -16,3 +16,5 @@
 // console.log(firstName.toUpperCase());
 
 // console.log(firstName.length);
+
+let guess;
