@@ -10,3 +10,9 @@
 // let dogAge = realAge * 7;
 
 // console.log(`${dogAge} years`);
+
+let firstName = 'muriel!';
+
+console.log(firstName.toUppercase());
+
+console.log(firstName.lenght);
