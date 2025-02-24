@@ -20,3 +20,5 @@
 let guess;
 
 guess = "red";
+
+guess = 1;
