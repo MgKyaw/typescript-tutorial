@@ -11,8 +11,8 @@
 
 // console.log(`${dogAge} years`);
 
-let firstName = 'muriel!';
+// let firstName = 'muriel!';
 
-console.log(firstName.toUpperCase());
+// console.log(firstName.toUpperCase());
 
-console.log(firstName.length);
+// console.log(firstName.length);
