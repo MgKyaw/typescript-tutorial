@@ -13,6 +13,6 @@
 
 let firstName = 'muriel!';
 
-console.log(firstName.toUppercase());
+console.log(firstName.toUpperCase());
 
-console.log(firstName.lenght);
+console.log(firstName.length);
