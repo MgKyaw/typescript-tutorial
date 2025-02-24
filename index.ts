@@ -18,3 +18,5 @@
 // console.log(firstName.length);
 
 let guess;
+
+guess = "red";
